@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning">
 </p>
 
 <h2 align="center">What I'm Working On</h2>
